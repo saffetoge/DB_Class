@@ -1,4 +1,4 @@
-# DB_Class
+# DB_Class PHP DataBase Sınıfı 
 
 ### INCLUDE FILE
 db.class.php projenize include ederek kullanabilirsiniz. 
